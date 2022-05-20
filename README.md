@@ -7,7 +7,7 @@ It will display the values of the following file attributes:
 - `FILE_ATTRIBUTE_RECALL_ON_OPEN`
 - `FILE_ATTRIBUTE_RECALL_ON_DATA_ACCESS`
 
-It seems, that a file is present locally, if `FILE_ATTRIBUTE_RECALL_ON_DATA_ACCESS` is true.
+It seems, that a file is present locally, if `FILE_ATTRIBUTE_RECALL_ON_DATA_ACCESS` is false.
 
 See also https://stackoverflow.com/a/61391049
 
